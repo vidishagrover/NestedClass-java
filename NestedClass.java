@@ -18,9 +18,3 @@ System.out.println("Display: outer_x = " + o.outer_x);
 }
 }
 }
-class NestedClass {
-public static void main(String args[]) {
-Outer outer = new Outer();
-outer.test();
-}
-}
